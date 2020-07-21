@@ -1,4 +1,8 @@
 ### Hello there 👋
+### I'm André Alves de Araújo. Welcome to my profile.
+
+
+<a href="https://github.com/andrealvesaraujo"><img alt="GitHub followers" src="https://img.shields.io/github/followers/andrealvesaraujo?style=social"></a>
 
 I'm a Front End Developer intern at Trinks.com. I'm working with HTML5,CSS3, Javascript, SASS, KnockoutJS, Bootstrap, BEM methodology and Mobile First approach.
 
