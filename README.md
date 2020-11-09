@@ -12,6 +12,10 @@ I'm a Front End Developer intern at Trinks.com. I'm working with HTML5,CSS3, Jav
 
 ⚡ Fun fact: I am into playing music keyboard in my free time.
 
+📫 How to reach me: 
+
+<a href="https://www.linkedin.com/in/andre-alves-araujo/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <!--
 **andrealvesaraujo/andrealvesaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
