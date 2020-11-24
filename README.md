@@ -1,7 +1,6 @@
 ### Hello there 👋
 ### I'm André Alves de Araújo. Welcome to my profile.
 
-
 <a href="https://github.com/andrealvesaraujo"><img alt="GitHub followers" src="https://img.shields.io/github/followers/andrealvesaraujo?style=social"></a>
 
 I'm a Front End Developer intern at Trinks.com. I'm working with HTML5,CSS3, Javascript, SASS, KnockoutJS, Bootstrap, BEM methodology and Mobile First approach.
@@ -30,3 +29,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvesaraujo&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andrealvesaraujo&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
