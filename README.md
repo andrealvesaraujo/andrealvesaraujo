@@ -3,7 +3,7 @@
 
 <a href="https://github.com/andrealvesaraujo"><img alt="GitHub followers" src="https://img.shields.io/github/followers/andrealvesaraujo?style=social"></a>
 
-I'm a Front End Developer intern at Trinks.com. I'm working with HTML5,CSS3, Javascript, SASS, KnockoutJS, Bootstrap, BEM methodology and Mobile First approach.
+I'm a Front End Developer intern at <a href="https://www.trinks.com/">Trinks.com</a>. I'm working with HTML5,CSS3, Javascript, SASS, KnockoutJS, Bootstrap, BEM methodology and Mobile First approach.
 
 🔭 I’m currently working on my Undergraduate thesis in a Java project in github.
 
