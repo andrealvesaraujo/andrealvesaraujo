@@ -3,13 +3,16 @@
 
 <a href="https://github.com/andrealvesaraujo"><img alt="GitHub followers" src="https://img.shields.io/github/followers/andrealvesaraujo?style=social"></a>
 
-I'm a Front End Developer intern at <a href="https://www.trinks.com/">Trinks.com</a>. I'm working with HTML5,CSS3, Javascript, SASS, KnockoutJS, Bootstrap, BEM methodology and Mobile First approach.
+I'm a Junior Front End Developer. 
 
-🔭 I’m currently working on my Undergraduate thesis in a Java project in github.
+🔭 I’m currently working on HTML5, CSS3, Javascript, JQuery, KnockoutJS, SASS, Bootstrap, BEM methodology, Mobile First approach, ITCSS architecture.
 
-👯 I’m looking to collaborate on Hackathons and Front-End projects. Also i'd like to help and learn about game development with Unity or Unreal.
+🌱 I’m currently learning on JavaScript projects from a Udemy course.
 
-⚡ Fun fact: I am into playing music keyboard in my free time.
+👯 I’m looking to collaborate on Hackathons and Front-End projects. Also i'd like to help and learn about game development with Unity or Unreal. I would also like to
+participate in a Game Jam.
+
+⚡ Fun fact: I’m into playing music keyboard in my free time and reading detective novels. 
 
 📫 How to reach me: 
 
