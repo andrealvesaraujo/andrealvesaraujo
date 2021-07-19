@@ -3,7 +3,7 @@
 
 <a href="https://github.com/andrealvesaraujo"><img alt="GitHub followers" src="https://img.shields.io/github/followers/andrealvesaraujo?style=social"></a>
 
-I'm a Junior Front End Developer. 
+I'm a Junior Front End Developer at Calindra.
 
 🔭 I’m currently working with:
 <p>
