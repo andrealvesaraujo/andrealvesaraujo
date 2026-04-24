@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/andre-alves-araujo/" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a> 
-  <a href="mailto: andrealvesaraujo.1995@gmail.com" target="_blank">
+  <a href="mailto:andrealvesaraujo.1995@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>  
   <a href="https://dedex37.itch.io/" target="_blank">
@@ -46,5 +46,11 @@
 </div>
 
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrealvesaraujo/andrealvesaraujo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrealvesaraujo/andrealvesaraujo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andrealvesaraujo/andrealvesaraujo/output/github-snake.svg" />
+</picture>
+
   
-![snake gif](https://github.com/andrealvesaraujo/andrealvesaraujo/blob/output/github-contribution-grid-snake.svg)
