@@ -1,28 +1,28 @@
 ## Hello. I'm André Alves de Araújo 😃.
 
-🏆 I'm a Junior Front End Developer at Calindra. 
+🏆 I'm a Software Developer at Calindra. 
 
-💻 I’m currently working with:
+🎮 Passionate about game development — two games shipped on itch.io, more in the works.
 
-<div style="display: inline_block">
-  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
-</div>
+🕹️ Into puzzle mechanics, gameplay programming and game jams.
 
-<br/>
+⚡ Fun fact: I play keyboard and read detective novels in my free time.
 
-👯 I’m looking to collaborate on Hackathons and Front-End projects. 
 
-🎮 Also i'd like to learn about game development with Unity or Unreal. I would also like to participate in Game Jams.
+---
+## 💻 Tech Stack
 
-⚡ Fun fact: I’m into playing music keyboard in my free time and reading detective novels. 
+**📱 Mobile & Front-End**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=react,angular,ts,js,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
+
+**⚙️ Back-End**
+
+[![Backend Skills](https://skillicons.dev/icons?i=firebase,nodejs,java,spring,py,postgres)](https://skillicons.dev)
+
+**🎮 Game Dev**
+
+[![Game Dev Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
 
 📫 How to reach me: 
 
@@ -33,6 +33,9 @@
   <a href="mailto: andrealvesaraujo.1995@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>  
+  <a href="https://dedex37.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white"/>
+  </a>
 </div>
 
 ## GitHub stats:  
